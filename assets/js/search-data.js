@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-speakez-an-innovative-hearing-assistive-prototype",
-          title: 'SpeakEZ - An Innovative Hearing-Assistive Prototype',
-          description: "with background image",
+          section: "News",},{id: "projects-speakez",
+          title: 'SpeakEZ',
+          description: "An Innovative Hearing-Assistive Prototype",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
