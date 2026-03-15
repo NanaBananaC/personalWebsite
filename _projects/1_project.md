@@ -1,9 +1,9 @@
 ---
 layout: page
-title: SpeakEZ - An Innovative Hearing-Assistive Prototype
-description: with background image
+title: SpeakEZ
+description: An Innovative Hearing-Assistive Prototype
 img: assets/img/speakez_proj_pic.jpg
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
